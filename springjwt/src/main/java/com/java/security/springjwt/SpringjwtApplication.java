@@ -10,5 +10,4 @@ public class SpringjwtApplication {
 		SpringApplication.run(SpringjwtApplication.class, args);
 		
 	}
-
 }
