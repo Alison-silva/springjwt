@@ -1,7 +1,7 @@
 # Spring JWT
 ## Descrição do projeto
 
-API feita para registro e login de usuários, utilizado Spring Security.
+API feita para registro e login de usuários, utilizado Spring Security e autenticação JWT.
 
 Como essa aplicação é somente o Backend, ela não renderisa os dados em página html.
 
